@@ -12,4 +12,4 @@ Performance Optimization: Discover techniques to optimize spatial queries for ha
 🚀 Getting Started
 Whether you're a GIS professional, data analyst, or developer, this project provides a solid foundation to harness the power of SQL for spatial data analysis. Check out the examples, run the queries, and start uncovering the insights hidden in your spatial data!
 
-![images](https://github.com/user-attachments/assets/b7ee0e2a-aec2-4e0e-921e-e7573fe4f588)
+
