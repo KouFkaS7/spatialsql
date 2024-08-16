@@ -8,5 +8,8 @@ Geospatial Data Handling: Learn how to query and analyze spatial datasets, inclu
 Real-World Applications: Explore practical examples involving mapping, geographic information systems (GIS), and location-based services.
 PostGIS Integration: Dive into the integration of PostGIS, a popular spatial database extender for PostgreSQL, which enhances SQL capabilities with advanced spatial functions.
 Performance Optimization: Discover techniques to optimize spatial queries for handling large datasets and improving query performance.
+
 🚀 Getting Started
 Whether you're a GIS professional, data analyst, or developer, this project provides a solid foundation to harness the power of SQL for spatial data analysis. Check out the examples, run the queries, and start uncovering the insights hidden in your spatial data!
+
+![images](https://github.com/user-attachments/assets/b7ee0e2a-aec2-4e0e-921e-e7573fe4f588)
